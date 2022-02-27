@@ -3,7 +3,11 @@
     "vid": "0x3825",
     "pid": "0x17EF",
     "sn": "A8ODN02468",
-    "mac1": "0011322CA603"
+    "netif_num": "4",
+        "mac1": "0011322CA603",
+		    "mac2": "0011322CA604",
+        "mac3": "0011322CA605",
+        "mac4": "0011322CA606"
   },
   "synoinfo": {
     "supportsystemperature": "no",
